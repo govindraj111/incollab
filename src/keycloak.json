@@ -1,0 +1,11 @@
+{
+  "realm": "in-collab",
+  "auth-server-url": "https://mynid.xyz:8443/auth/",
+  "ssl-required": "none",
+  "resource": "in:collab",
+  "public-client": true,
+  "verify-token-audience": true,
+  "use-resource-role-mappings": true,
+  "confidential-port": 0,
+  "enable-cors": true
+}
